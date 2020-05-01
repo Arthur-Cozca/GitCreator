@@ -3,7 +3,7 @@ GitCreator is a client that allows you to create a .git directory and send the c
 
 ## How to use it
 First of all, install the GitCreator client by doing the following command: npm install -g gitcreator
-Then to push your directory on GitHub, run the following command in your directory: ```git-creator <name of your repo> <description with "">```
+Then to push your directory on GitHub, run the following command in your directory: ```git-creator``` and follow instruction.
 The files will be push directly on GitHub.
 
 ## Last Note
