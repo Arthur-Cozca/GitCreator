@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeRoiDesKiwis/GitCreator.git"
+    "url": "git+https://github.com/Arthur-Cozca/GitCreator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LeRoiDesKiwis/GitCreator/issues"
+    "url": "https://github.com/Arthur-Cozca/GitCreator/issues"
   },
-  "homepage": "https://github.com/LeRoiDesKiwis/GitCreator#readme"
+  "homepage": "https://github.com/Arthur-Cozca/GitCreator#readme"
 }
