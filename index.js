@@ -9,10 +9,10 @@ const clear = require('clear');
 const figlet = require('figlet');
 
 // created modules
-const files = require('./lib/files');
-const inquirer = require('./lib/inquirer');
-const git = require('./lib/github');
-const repo = require('./lib/repo');
+const files = require('./util/files');
+const inquirer = require('./util/inquirer');
+const git = require('./util/github');
+const repo = require('./util/repo');
 
 // We clear the terminal
 clear();
